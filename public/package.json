@@ -1,0 +1,14 @@
+{
+  "name": "takip-programi",
+  "version": "1.0.0",
+  "description": "test of takip programi",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nuh Furkan Erturk",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^9.9.1"
+  }
+}
